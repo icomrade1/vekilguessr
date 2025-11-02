@@ -6,6 +6,8 @@ let party = ``;
 let city = ``;
 let usaname = "";
 let fix="";
+var audio = new Audio("cheer.mp3");
+audio.preload = "auto";
 
 let info = document.getElementById('trueTotal');
 let replaceable = document.getElementById("skibidi");
@@ -59,9 +61,6 @@ function rastgeleKullanici() {
 
 
 function getId(button) {
-  console.log(truths)
-  console.log(party)
-console.log(button.id)
   if (button.id == party)  {
    
    truths++;
@@ -77,11 +76,11 @@ console.log(button.id)
     setTimeout(() => {
     replaceable.textContent = "hangi partili?";
     replaceable.style.color = "white";
+      rastgeleKullanici();
     
     
     
   }, 1000);
-  rastgeleKullanici();
   
 }
   if (question == 10) {
@@ -121,14 +120,12 @@ console.log(button.id)
       console.log("hi")
 
 function frame() {
-  // launch a few confetti from the left edge
   confetti({
     particleCount: 50,
     angle: 315,
     spread: 90,
     origin: { x: 0, y:0 }
   });
-  // and launch a few from the right edge
   confetti({
     particleCount: 50,
     angle: 225,
@@ -138,7 +135,6 @@ function frame() {
 } ;
 
 function playAudio(){
-  var audio = new Audio("cheer.mp3");
   audio.play();
 }
 
@@ -149,3 +145,4 @@ function restart(){
   document.getElementById("questionTotal").textContent = "soru 1/10"
   document.getElementById("gameOverScreen").style.display = "none";
 }
+  audio.addEventListener('canplaythrough', isAppLoaded, false);
