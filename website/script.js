@@ -77,7 +77,7 @@ console.log(button.id)
     replaceable.style.color = "white";
     rastgeleKullanici();
     
-  }, 2000);
+  }, 1000);
 
 }
 
