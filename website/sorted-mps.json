@@ -1,0 +1,2460 @@
+{
+    "AK PARTİ": [
+        {
+            "name": "Abdullah DOĞRU",
+            "province": "ADANA"
+        },
+        {
+            "name": "Faruk AYTEK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ömer ÇELİK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Sunay KARAMIK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Abdullah DOĞRU",
+            "province": "ADANA"
+        },
+        {
+            "name": "Faruk AYTEK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ömer ÇELİK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Sunay KARAMIK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Hüseyin ÖZHAN",
+            "province": "ADIYAMAN"
+        },
+        {
+            "name": "İshak ŞAN",
+            "province": "ADIYAMAN"
+        },
+        {
+            "name": "Mustafa ALKAYIŞ",
+            "province": "ADIYAMAN"
+        },
+        {
+            "name": "Resul KURT",
+            "province": "ADIYAMAN"
+        },
+        {
+            "name": "Ali ÖZKAYA",
+            "province": "AFYONKARAHİSAR"
+        },
+        {
+            "name": "Hasan ARSLAN",
+            "province": "AFYONKARAHİSAR"
+        },
+        {
+            "name": "İbrahim YURDUNUSEVEN",
+            "province": "AFYONKARAHİSAR"
+        },
+        {
+            "name": "Ruken KİLERCİ",
+            "province": "AĞRI"
+        },
+        {
+            "name": "Haluk İPEK",
+            "province": "AMASYA"
+        },
+        {
+            "name": "Hasan ÇİLEZ",
+            "province": "AMASYA"
+        },
+        {
+            "name": "Ahmet Fethan BAYKOÇ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Asuman ERDOĞAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Fuat OKTAY",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Jülide SARIEROĞLU",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Kurtcan ÇELEBİ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Kürşad ZORLU",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Leyla ŞAHİN USTA",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Lütfiye Selva ÇAM",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Murat ALPARSLAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Mustafa Nedim YAMALI",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Orhan YEGİN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Osman GÖKÇEK",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Ömer İLERİ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Vedat BİLGİN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Yıldırım Tuğrul TÜRKEŞ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Zehranur AYDEMİR",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Zeynep YILDIZ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Atay USLU",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "İbrahim Ethem TAŞ",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Kemal ÇELİK",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Mevlüt ÇAVUŞOĞLU",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Mustafa KÖSE",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Serap YAZICI ÖZBUDUN",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Tuba VURAL ÇOKAL",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Faruk ÇELİK",
+            "province": "ARTVİN"
+        },
+        {
+            "name": "Mustafa SAVAŞ",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Ömer ÖZMEN",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Seda SARIBAŞ",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Ali Taylan ÖZTAYLAN",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Belgin UYGUR",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "İsmail OK",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Mustafa CANBEY",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Halil ELDEMİR",
+            "province": "BİLECİK"
+        },
+        {
+            "name": "Feyzi BERDİBEK",
+            "province": "BİNGÖL"
+        },
+        {
+            "name": "Zeki KORKUTATA",
+            "province": "BİNGÖL"
+        },
+        {
+            "name": "Turan BEDİRHANOĞLU",
+            "province": "BİTLİS"
+        },
+        {
+            "name": "Yüksel COŞKUNYÜREK",
+            "province": "BOLU"
+        },
+        {
+            "name": "Adem KORKMAZ",
+            "province": "BURDUR"
+        },
+        {
+            "name": "Mustafa OĞUZ",
+            "province": "BURDUR"
+        },
+        {
+            "name": "Ahmet KILIÇ",
+            "province": "BURSA"
+        },
+        {
+            "name": "Ayhan SALMAN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Efkan ALA",
+            "province": "BURSA"
+        },
+        {
+            "name": "Emel GÖZÜKARA DURMAZ",
+            "province": "BURSA"
+        },
+        {
+            "name": "Emine YAVUZ GÖZGEÇ",
+            "province": "BURSA"
+        },
+        {
+            "name": "Muhammet Müfit AYDIN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Mustafa VARANK",
+            "province": "BURSA"
+        },
+        {
+            "name": "Mustafa YAVUZ",
+            "province": "BURSA"
+        },
+        {
+            "name": "Osman MESTEN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Refik ÖZEN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Ayhan GİDER",
+            "province": "ÇANAKKALE"
+        },
+        {
+            "name": "Muhammet Emin AKBAŞOĞLU",
+            "province": "ÇANKIRI"
+        },
+        {
+            "name": "Oğuzhan KAYA",
+            "province": "ÇORUM"
+        },
+        {
+            "name": "Yusuf AHLATCI",
+            "province": "ÇORUM"
+        },
+        {
+            "name": "Cahit ÖZKAN",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Nilgün ÖK",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Şahin TİN",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Mehmet Galip ENSARİOĞLU",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Mehmet Sait YAZ",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Suna KEPOLU ATAMAN",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Fatma AKSAL",
+            "province": "EDİRNE"
+        },
+        {
+            "name": "Ejder AÇIKKAPI",
+            "province": "ELAZIĞ"
+        },
+        {
+            "name": "Erol KELEŞ",
+            "province": "ELAZIĞ"
+        },
+        {
+            "name": "Mahmut Rıdvan NAZIRLI",
+            "province": "ELAZIĞ"
+        },
+        {
+            "name": "Süleyman KARAMAN",
+            "province": "ERZİNCAN"
+        },
+        {
+            "name": "Abdurrahim FIRAT",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Fatma ÖNCÜ",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Mehmet Emin ÖZ",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Selami ALTINOK",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Ayşen GÜRCAN",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "Fatih DÖNMEZ",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "İdris Nebi HATİPOĞLU",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "Abdulhamit GÜL",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Ali ŞAHİN",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Bünyamin BOZGEYİK",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Derya BAKBAK",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "İrfan ÇELİKASLAN",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Mehmet Eyup ÖZKEÇECİ",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Mesut BOZATLI",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Ali TEMÜR",
+            "province": "GİRESUN"
+        },
+        {
+            "name": "Nazım ELMAS",
+            "province": "GİRESUN"
+        },
+        {
+            "name": "Celalettin KÖSE",
+            "province": "GÜMÜŞHANE"
+        },
+        {
+            "name": "Abdulkadir ÖZEL",
+            "province": "HATAY"
+        },
+        {
+            "name": "Adem YEŞİLDAL",
+            "province": "HATAY"
+        },
+        {
+            "name": "Hüseyin YAYMAN",
+            "province": "HATAY"
+        },
+        {
+            "name": "Kemal KARAHAN",
+            "province": "HATAY"
+        },
+        {
+            "name": "Mehmet Uğur GÖKGÖZ",
+            "province": "ISPARTA"
+        },
+        {
+            "name": "Osman ZABUN",
+            "province": "ISPARTA"
+        },
+        {
+            "name": "Ali KIRATLI",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Havva Sibel SÖYLEMEZ",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Nureddin NEBATİ",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Adem YILDIRIM",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ahmet Ersagun YÜCEL",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Azmi EKİNCİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Bayram ŞENOCAK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Behiye EKER",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Büşra PAKER",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Cüneyt YÜKSEL",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Derya AYAYDIN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Erkan KANDEMİR",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Halis DALKILIÇ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Halit YEREBAKAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Hasan TURAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Hulusi ŞENTÜRK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İsmail ERDEM",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İsmail Emrah KARAYEL",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mehmet Selim ENSARİOĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa DEMİR",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa Hulki CEVİZOĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Müşerref Pervin Tuba DURGUT",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Nilhan AYAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Numan KURTULMUŞ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Nurettin ALAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Oğuz ÜÇÜNCÜ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Özlem ZENGİN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Rabia İLHAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Rümeysa KADAK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Seda GÖREN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Sena Nur ÇELİK KANAT",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Serkan BAYRAM",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Sevan SIVACIOĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Seyithan İZSİZ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Suat PAMUKÇU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Süleyman SOYLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Şamil AYRIM",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Şengül KARSLI",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Tuğba IŞIK ERCAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ümmügülşen ÖZTÜRK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Yahya ÇELİK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Yıldız KONAL SÜSLÜ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Yücel Arzen HACIOĞULLARI",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Zafer SIRAKAYA",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ceyda BÖLÜNMEZ ÇANKIRI",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Eyyüp Kadir İNAN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Fehmi Alpay ÖZALAN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Mahmut Atilla KAYA",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Mehmet Ali ÇELEBİ",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Mehmet Muharrem KASAPOĞLU",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Şebnem BURSALI",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Yaşar KIRKPINAR",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Adem ÇALKIN",
+            "province": "KARS"
+        },
+        {
+            "name": "Fatma Serap EKMEKCİ",
+            "province": "KASTAMONU"
+        },
+        {
+            "name": "Halil ULUAY",
+            "province": "KASTAMONU"
+        },
+        {
+            "name": "Ayşe BÖHÜRLER",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Dursun ATAŞ",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Hulusi AKAR",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Murat Cahid CINGI",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Sayın Bayar ÖZSOY",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Şaban ÇOPUROĞLU",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Ahmet Gökhan SARIÇAM",
+            "province": "KIRKLARELİ"
+        },
+        {
+            "name": "Necmettin ERKAN",
+            "province": "KIRŞEHİR"
+        },
+        {
+            "name": "Cemil YAMAN",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Mehmet Akif YILMAZ",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Radiye Sezer KATIRCIOĞLU",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Sadettin HÜLAGÜ",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Sami ÇAKIR",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Veysal TİPİOĞLU",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Abdullah AĞRALI",
+            "province": "KONYA"
+        },
+        {
+            "name": "Hasan EKİCİ",
+            "province": "KONYA"
+        },
+        {
+            "name": "Latif SELVİ",
+            "province": "KONYA"
+        },
+        {
+            "name": "Mehmet BAYKAN",
+            "province": "KONYA"
+        },
+        {
+            "name": "Meryem GÖKA",
+            "province": "KONYA"
+        },
+        {
+            "name": "Mustafa Hakan ÖZER",
+            "province": "KONYA"
+        },
+        {
+            "name": "Orhan ERDEM",
+            "province": "KONYA"
+        },
+        {
+            "name": "Selman ÖZBOYACI",
+            "province": "KONYA"
+        },
+        {
+            "name": "Tahir AKYÜREK",
+            "province": "KONYA"
+        },
+        {
+            "name": "Ünal KARAMAN",
+            "province": "KONYA"
+        },
+        {
+            "name": "Ziya ALTUNYALDIZ",
+            "province": "KONYA"
+        },
+        {
+            "name": "Adil BİÇER",
+            "province": "KÜTAHYA"
+        },
+        {
+            "name": "İsmail Çağlar BAYIRCI",
+            "province": "KÜTAHYA"
+        },
+        {
+            "name": "Mehmet DEMİR",
+            "province": "KÜTAHYA"
+        },
+        {
+            "name": "Abdurrahman BABACAN",
+            "province": "MALATYA"
+        },
+        {
+            "name": "Bülent TÜFENKCİ",
+            "province": "MALATYA"
+        },
+        {
+            "name": "İhsan KOCA",
+            "province": "MALATYA"
+        },
+        {
+            "name": "İnanç Siraç Kara ÖLMEZTOPRAK",
+            "province": "MALATYA"
+        },
+        {
+            "name": "Ahmet Mücahit ARINÇ",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Bahadır Nahit YENİŞEHİRLİOĞLU",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Murat BAYBATUR",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Tamer AKKAL",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Mehmet ŞAHİN",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Mevlüt KURT",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Ömer Oruç Bilal DEBGİCİ",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Tuba KÖKSAL",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Vahit KİRİŞCİ",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Faruk KILIÇ",
+            "province": "MARDİN"
+        },
+        {
+            "name": "Muhammed ADAK",
+            "province": "MARDİN"
+        },
+        {
+            "name": "Kadem METE",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Yakup OTGÖZ",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Mehmet Emin ŞİMŞEK",
+            "province": "MUŞ"
+        },
+        {
+            "name": "Emre ÇALIŞKAN",
+            "province": "NEVŞEHİR"
+        },
+        {
+            "name": "Süleyman ÖZGÜN",
+            "province": "NEVŞEHİR"
+        },
+        {
+            "name": "Cevahir UZKURT",
+            "province": "NİĞDE"
+        },
+        {
+            "name": "İbrahim Ufuk KAYNAK",
+            "province": "ORDU"
+        },
+        {
+            "name": "Mahmut ÖZER",
+            "province": "ORDU"
+        },
+        {
+            "name": "Mustafa HAMARAT",
+            "province": "ORDU"
+        },
+        {
+            "name": "Harun MERTOĞLU",
+            "province": "RİZE"
+        },
+        {
+            "name": "Muhammed AVCI",
+            "province": "RİZE"
+        },
+        {
+            "name": "Ali İNCİ",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Çiğdem ERDOĞAN",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Ertuğrul KOCACIK",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Lütfi BAYRAKTAR",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Murat KAYA",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Çiğdem KARAASLAN",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Ersan AKSU",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Mehmet MUŞ",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Orhan KIRCALI",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Yusuf Ziya YILMAZ",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Mervan GÜL",
+            "province": "SİİRT"
+        },
+        {
+            "name": "Nazım MAVİŞ",
+            "province": "SİNOP"
+        },
+        {
+            "name": "Abdullah GÜLER",
+            "province": "SİVAS"
+        },
+        {
+            "name": "Hakan AKSU",
+            "province": "SİVAS"
+        },
+        {
+            "name": "Rukiye TOY",
+            "province": "SİVAS"
+        },
+        {
+            "name": "Çiğdem KONCAGÜL",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Gökhan DİKTAŞ",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Mestan ÖZCAN",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Cüneyt ALDEMİR",
+            "province": "TOKAT"
+        },
+        {
+            "name": "Mustafa ARSLAN",
+            "province": "TOKAT"
+        },
+        {
+            "name": "Yusuf BEYAZIT",
+            "province": "TOKAT"
+        },
+        {
+            "name": "Adil KARAİSMAİLOĞLU",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Mustafa ŞEN",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Vehbi KOÇ",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Yılmaz BÜYÜKAYDIN",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Abdulkadir Emin ÖNEN",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Abdürrahim DUSAK",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Bekir BOZDAĞ",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Cevahir Asuman YAZMACI",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Hikmet BAŞAK",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "İbrahim EYYÜPOĞLU",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Mehmet Ali CEVHERİ",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Mehmet Faruk PINARBAŞI",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Fahrettin TUĞRUL",
+            "province": "UŞAK"
+        },
+        {
+            "name": "İsmail GÜNEŞ",
+            "province": "UŞAK"
+        },
+        {
+            "name": "Burhan KAYATÜRK",
+            "province": "VAN"
+        },
+        {
+            "name": "Kayhan TÜRKMENOĞLU",
+            "province": "VAN"
+        },
+        {
+            "name": "Abdulkadir AKGÜL",
+            "province": "YOZGAT"
+        },
+        {
+            "name": "Süleyman ŞAHAN",
+            "province": "YOZGAT"
+        },
+        {
+            "name": "Ahmet ÇOLAKOĞLU",
+            "province": "ZONGULDAK"
+        },
+        {
+            "name": "Muammer AVCI",
+            "province": "ZONGULDAK"
+        },
+        {
+            "name": "Saffet BOZKURT",
+            "province": "ZONGULDAK"
+        },
+        {
+            "name": "Cengiz AYDOĞDU",
+            "province": "AKSARAY"
+        },
+        {
+            "name": "Hüseyin ALTINSOY",
+            "province": "AKSARAY"
+        },
+        {
+            "name": "Orhan ATEŞ",
+            "province": "BAYBURT"
+        },
+        {
+            "name": "Osman SAĞLAM",
+            "province": "KARAMAN"
+        },
+        {
+            "name": "Selman Oğuzhan ESER",
+            "province": "KARAMAN"
+        },
+        {
+            "name": "Mustafa KAPLAN",
+            "province": "KIRIKKALE"
+        },
+        {
+            "name": "Ferhat NASIROĞLU",
+            "province": "BATMAN"
+        },
+        {
+            "name": "Arslan TATAR",
+            "province": "ŞIRNAK"
+        },
+        {
+            "name": "Yusuf Ziya ALDATMAZ",
+            "province": "BARTIN"
+        },
+        {
+            "name": "Kaan KOÇ",
+            "province": "ARDAHAN"
+        },
+        {
+            "name": "Cantürk ALAGÖZ",
+            "province": "IĞDIR"
+        },
+        {
+            "name": "Ahmet BÜYÜKGÜMÜŞ",
+            "province": "YALOVA"
+        },
+        {
+            "name": "Meliha AKYOL",
+            "province": "YALOVA"
+        },
+        {
+            "name": "Cem ŞAHİN",
+            "province": "KARABÜK"
+        },
+        {
+            "name": "Durmuş Ali KESKİNKILIÇ",
+            "province": "KARABÜK"
+        },
+        {
+            "name": "Ahmet Salih DAL",
+            "province": "KİLİS"
+        },
+        {
+            "name": "Derya YANIK",
+            "province": "OSMANİYE"
+        },
+        {
+            "name": "Seydi GÜLSOY",
+            "province": "OSMANİYE"
+        },
+        {
+            "name": "Ayşe KEŞİR",
+            "province": "DÜZCE"
+        },
+        {
+            "name": "Ercan ÖZTÜRK",
+            "province": "DÜZCE"
+        }
+    ],
+    "BAĞIMSIZ": [
+        {
+            "name": "Ahmet ZENBİLCİ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ahmet ZENBİLCİ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Koray AYDIN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Burak DALGIN",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "İsmail AKGÜL",
+            "province": "BOLU"
+        },
+        {
+            "name": "Ediz ÜN",
+            "province": "EDİRNE"
+        },
+        {
+            "name": "Hasan Basri SÖNMEZ",
+            "province": "ISPARTA"
+        },
+        {
+            "name": "Doğan DEMİR",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İsa Mesih ŞAHİN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa YENEROĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Selim TEMURCİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa DEMİR",
+            "province": "KİLİS"
+        }
+    ],
+    "CHP": [
+        {
+            "name": "Ayhan BARUT",
+            "province": "ADANA"
+        },
+        {
+            "name": "Bilal BİLİCİ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Burhanettin BULUT",
+            "province": "ADANA"
+        },
+        {
+            "name": "Müzeyyen ŞEVKİN",
+            "province": "ADANA"
+        },
+        {
+            "name": "Orhan SÜMER",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ayhan BARUT",
+            "province": "ADANA"
+        },
+        {
+            "name": "Bilal BİLİCİ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Burhanettin BULUT",
+            "province": "ADANA"
+        },
+        {
+            "name": "Müzeyyen ŞEVKİN",
+            "province": "ADANA"
+        },
+        {
+            "name": "Orhan SÜMER",
+            "province": "ADANA"
+        },
+        {
+            "name": "Reşat KARAGÖZ",
+            "province": "AMASYA"
+        },
+        {
+            "name": "Adnan BEKER",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Aliye TİMİSİ ERSEVER",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Aylin YAMAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Deniz DEMİR",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Gamze TAŞCIER",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Murat EMİR",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Okan KONURALP",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Semra DİNÇER",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Tekin BİNGÖL",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Umut AKDOĞAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Aliye COŞAR",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Aykut KAYA",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Cavit ARI",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Mustafa ERDEM",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Sururi ÇORABATIR",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Uğur BAYRAKTUTAN",
+            "province": "ARTVİN"
+        },
+        {
+            "name": "Bülent TEZCAN",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Evrim KARAKOZ",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Hüseyin YILDIZ",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Süleyman BÜLBÜL",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Ensar AYTEKİN",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Serkan SARI",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Yaşar TÜZÜN",
+            "province": "BİLECİK"
+        },
+        {
+            "name": "Türker ATEŞ",
+            "province": "BOLU"
+        },
+        {
+            "name": "İzzet AKBULUT",
+            "province": "BURDUR"
+        },
+        {
+            "name": "Hasan ÖZTÜRK",
+            "province": "BURSA"
+        },
+        {
+            "name": "Kayıhan PALA",
+            "province": "BURSA"
+        },
+        {
+            "name": "Nurhayat ALTACA KAYIŞOĞLU",
+            "province": "BURSA"
+        },
+        {
+            "name": "Orhan SARIBAL",
+            "province": "BURSA"
+        },
+        {
+            "name": "İsmet GÜNEŞHAN",
+            "province": "ÇANAKKALE"
+        },
+        {
+            "name": "Özgür CEYLAN",
+            "province": "ÇANAKKALE"
+        },
+        {
+            "name": "Mehmet TAHTASIZ",
+            "province": "ÇORUM"
+        },
+        {
+            "name": "Gülizar BİÇER KARACA",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Şeref ARPACI",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Mustafa Sezgin TANRIKULU",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Ahmet Baran YAZGAN",
+            "province": "EDİRNE"
+        },
+        {
+            "name": "Gürsel EROL",
+            "province": "ELAZIĞ"
+        },
+        {
+            "name": "Mustafa SARIGÜL",
+            "province": "ERZİNCAN"
+        },
+        {
+            "name": "İbrahim ARSLAN",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "Jale Nur SÜLLÜ",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "Utku ÇAKIRÖZER",
+            "province": "ESKİŞEHİR"
+        },
+        {
+            "name": "Hasan ÖZTÜRKMEN",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Melih MERİÇ",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Elvan IŞIK GEZMİŞ",
+            "province": "GİRESUN"
+        },
+        {
+            "name": "Mehmet GÜZELMANSUR",
+            "province": "HATAY"
+        },
+        {
+            "name": "Nermin YILDIRIM KARA",
+            "province": "HATAY"
+        },
+        {
+            "name": "Servet MULLAOĞLU",
+            "province": "HATAY"
+        },
+        {
+            "name": "Hikmet Yalım HALICI",
+            "province": "ISPARTA"
+        },
+        {
+            "name": "Ali Mahir BAŞARIR",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Gülcan KIŞ",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Hasan Ufuk ÇAKIR",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Talat DİNÇER",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Ali GÖKÇEK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ayşe Sibel YANIKÖMEROĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Cemal ENGİNYURT",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Engin ALTAY",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Erdoğan TOPRAK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Evrim RIZVANOĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Fethi AÇIKEL",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Gamze AKKUŞ İLGEZDİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Gökan ZEYBEK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Gökhan GÜNAYDIN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İlhan KESİCİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Kadri Enis BERBEROĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Namık TAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Nimet ÖZDEMİR",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Oğuz Kaan SALICI",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Özgür KARABAT",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Suat ÖZÇAĞDAŞ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Turan Taşkın ÖZER",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Türkan ELÇİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Yunus EMRE",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Yüksel Mansur KILINÇ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Zeynel EMRE",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ahmet Tuncay ÖZKAN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Deniz YÜCEL",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Ednan ARSLAN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Gökçe GÖKÇEN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Mahir POLAT",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Mehmet Salih UZUN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Murat BAKAN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Rahmi Aşkın TÜRELİ",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Rıfat Turuntay NALBANTOĞLU",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Seda KÂYA ÖSEN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Sevda ERDAN KILIÇ",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Ümit ÖZLALE",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Yüksel TAŞKIN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "İnan Akgün ALP",
+            "province": "KARS"
+        },
+        {
+            "name": "Aşkın GENÇ",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Fahri ÖZKAN",
+            "province": "KIRKLARELİ"
+        },
+        {
+            "name": "Vecdi GÜNDOĞDU",
+            "province": "KIRKLARELİ"
+        },
+        {
+            "name": "Metin İLHAN",
+            "province": "KIRŞEHİR"
+        },
+        {
+            "name": "Harun Özgür YILDIZLI",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Mühip KANKO",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Nail ÇİLER",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Barış BEKTAŞ",
+            "province": "KONYA"
+        },
+        {
+            "name": "Ali Fazıl KASAP",
+            "province": "KÜTAHYA"
+        },
+        {
+            "name": "Veli AĞBABA",
+            "province": "MALATYA"
+        },
+        {
+            "name": "Ahmet Vehbi BAKIRLIOĞLU",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Bekir BAŞEVİRGEN",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Özgür ÖZEL",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Selma Aliye KAVAF",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Ali ÖZTUNÇ",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Cumhur UZUN",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Gizem ÖZCAN",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Süreyya ÖNEŞ DERİCİ",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Ömer Fethi GÜRER",
+            "province": "NİĞDE"
+        },
+        {
+            "name": "Mustafa ADIGÜZEL",
+            "province": "ORDU"
+        },
+        {
+            "name": "Seyit TORUN",
+            "province": "ORDU"
+        },
+        {
+            "name": "Tahsin OCAKLI",
+            "province": "RİZE"
+        },
+        {
+            "name": "Ayça TAŞKENT",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Ümit DİKBAYIR",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "Murat ÇAN",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Barış KARADENİZ",
+            "province": "SİNOP"
+        },
+        {
+            "name": "Ulaş KARASU",
+            "province": "SİVAS"
+        },
+        {
+            "name": "Cem AVŞAR",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Faik ÖZTRAK",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "İlhami Özcan AYGUN",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Nurten YONTAR",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Kadim DURMAZ",
+            "province": "TOKAT"
+        },
+        {
+            "name": "Sibel SUİÇMEZ",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Mahmut TANAL",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Ali KARAOBA",
+            "province": "UŞAK"
+        },
+        {
+            "name": "Deniz YAVUZYILMAZ",
+            "province": "ZONGULDAK"
+        },
+        {
+            "name": "Eylem Ertuğ ERTUĞRUL",
+            "province": "ZONGULDAK"
+        },
+        {
+            "name": "İsmail Atakan ÜNVER",
+            "province": "KARAMAN"
+        },
+        {
+            "name": "Aysu BANKOĞLU",
+            "province": "BARTIN"
+        },
+        {
+            "name": "Özgür Erdem İNCESU",
+            "province": "ARDAHAN"
+        },
+        {
+            "name": "Tahsin BECAN",
+            "province": "YALOVA"
+        },
+        {
+            "name": "Cevdet AKAY",
+            "province": "KARABÜK"
+        },
+        {
+            "name": "Asu KAYA",
+            "province": "OSMANİYE"
+        },
+        {
+            "name": "Talih ÖZCAN",
+            "province": "DÜZCE"
+        }
+    ],
+    "MHP": [
+        {
+            "name": "Ayşe Sibel ERSOY",
+            "province": "ADANA"
+        },
+        {
+            "name": "Muharrem VARLI",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ayşe Sibel ERSOY",
+            "province": "ADANA"
+        },
+        {
+            "name": "Muharrem VARLI",
+            "province": "ADANA"
+        },
+        {
+            "name": "Mehmet TAYTAK",
+            "province": "AFYONKARAHİSAR"
+        },
+        {
+            "name": "Mevlüt KARAKAYA",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Sadir DURMAZ",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Yaşar YILDIRIM",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Abdurrahman BAŞKAN",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Hilmi DURGUN",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Ekrem Gökay YÜKSEL",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Fevzi ZIRHLIOĞLU",
+            "province": "BURSA"
+        },
+        {
+            "name": "İsmet BÜYÜKATAMAN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Pelin YILIK",
+            "province": "ÇANKIRI"
+        },
+        {
+            "name": "Vahit KAYRICI",
+            "province": "ÇORUM"
+        },
+        {
+            "name": "Semih IŞIKVER",
+            "province": "ELAZIĞ"
+        },
+        {
+            "name": "Kamil AYDIN",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Sermet ATAY",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Ertuğrul Gazi KONAL",
+            "province": "GİRESUN"
+        },
+        {
+            "name": "Musa KÜÇÜK",
+            "province": "GÜMÜŞHANE"
+        },
+        {
+            "name": "Lütfi KAŞIKÇI",
+            "province": "HATAY"
+        },
+        {
+            "name": "Levent UYSAL",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Celal ADAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Edip Semih YALÇIN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Feti YILDIZ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İsmail Faruk AKSU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "İzzet Ulvi YÖNTER",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Tamer OSMANAĞAOĞLU",
+            "province": "İZMİR"
+        },
+        {
+            "name": "İsmail ÖZDEMİR",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Mustafa Baki ERSOY",
+            "province": "KAYSERİ"
+        },
+        {
+            "name": "Saffet SANCAKLI",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Konur Alp KOÇAK",
+            "province": "KONYA"
+        },
+        {
+            "name": "Mustafa KALAYCI",
+            "province": "KONYA"
+        },
+        {
+            "name": "Ahmet ERBAŞ",
+            "province": "KÜTAHYA"
+        },
+        {
+            "name": "Mehmet Celal FENDOĞLU",
+            "province": "MALATYA"
+        },
+        {
+            "name": "Erkan AKÇAY",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Zuhal KARAKOÇ",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Filiz KILIÇ",
+            "province": "NEVŞEHİR"
+        },
+        {
+            "name": "Cumali İNCE",
+            "province": "NİĞDE"
+        },
+        {
+            "name": "Naci ŞANLITÜRK",
+            "province": "ORDU"
+        },
+        {
+            "name": "Muhammed Levent BÜLBÜL",
+            "province": "SAKARYA"
+        },
+        {
+            "name": "İlyas TOPSAKAL",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Ahmet ÖZYÜREK",
+            "province": "SİVAS"
+        },
+        {
+            "name": "Yücel BULUT",
+            "province": "TOKAT"
+        },
+        {
+            "name": "İbrahim ÖZYAVUZ",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "İbrahim Ethem SEDEF",
+            "province": "YOZGAT"
+        },
+        {
+            "name": "Ramazan KAŞLI",
+            "province": "AKSARAY"
+        },
+        {
+            "name": "Halil ÖZTÜRK",
+            "province": "KIRIKKALE"
+        },
+        {
+            "name": "Devlet BAHÇELİ",
+            "province": "OSMANİYE"
+        }
+    ],
+    "İYİ PARTİ": [
+        {
+            "name": "Ayyüce TÜRKEŞ TAŞ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Ayyüce TÜRKEŞ TAŞ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Hakan Şeref OLGUN",
+            "province": "AFYONKARAHİSAR"
+        },
+        {
+            "name": "Ahmet Eşref FAKIBABA",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Yüksel ARSLAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Uğur POYRAZ",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Ömer KARAKAŞ",
+            "province": "AYDIN"
+        },
+        {
+            "name": "Turhan ÇÖMEZ",
+            "province": "BALIKESİR"
+        },
+        {
+            "name": "Hasan TOKTAŞ",
+            "province": "BURSA"
+        },
+        {
+            "name": "Yüksel Selçuk TÜRKOĞLU",
+            "province": "BURSA"
+        },
+        {
+            "name": "Rıdvan UZ",
+            "province": "ÇANAKKALE"
+        },
+        {
+            "name": "Yasin ÖZTÜRK",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Mehmet AKALIN",
+            "province": "EDİRNE"
+        },
+        {
+            "name": "Mehmet Mustafa GÜRBAN",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Adnan Şefik ÇİRKİN",
+            "province": "HATAY"
+        },
+        {
+            "name": "Burhanettin KOCAMAZ",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Burak AKBURAK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Ersin BEYAZ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mehmet Satuk Buğra KAVUNCU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa Cihan PAÇACI",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Dursun Müsavat DERVİŞOĞLU",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Hüsmen KIRKPINAR",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Lütfü TÜRKKAN",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Şenol SUNAT",
+            "province": "MANİSA"
+        },
+        {
+            "name": "Metin ERGUN",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Erhan USTA",
+            "province": "SAMSUN"
+        },
+        {
+            "name": "Selcan TAŞCI",
+            "province": "TEKİRDAĞ"
+        },
+        {
+            "name": "Yavuz AYDIN",
+            "province": "TRABZON"
+        },
+        {
+            "name": "Lütfullah KAYALAR",
+            "province": "YOZGAT"
+        },
+        {
+            "name": "Turan YALDIR",
+            "province": "AKSARAY"
+        }
+    ],
+    "YENİ YOL": [
+        {
+            "name": "Sadullah KISACIK",
+            "province": "ADANA"
+        },
+        {
+            "name": "Sadullah KISACIK",
+            "province": "ADANA"
+        },
+        {
+            "name": "İdris ŞAHİN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Mesut DOĞAN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Sadullah ERGİN",
+            "province": "ANKARA"
+        },
+        {
+            "name": "Şerafettin KILIÇ",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Cemalettin Kani TORUN",
+            "province": "BURSA"
+        },
+        {
+            "name": "Mehmet ATMACA",
+            "province": "BURSA"
+        },
+        {
+            "name": "Sema SİLKİN ÜN",
+            "province": "DENİZLİ"
+        },
+        {
+            "name": "Ertuğrul KAYA",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Necmettin ÇALIŞKAN",
+            "province": "HATAY"
+        },
+        {
+            "name": "Mehmet Emin EKMEN",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Birol AYDIN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Bülent KAYA",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Elif ESEN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Hasan KARAL",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Medeni YILMAZ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa KAYA",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mustafa BİLİCİ",
+            "province": "İZMİR"
+        },
+        {
+            "name": "İrfan KARATUTLU",
+            "province": "KAHRAMANMARAŞ"
+        },
+        {
+            "name": "Selçuk ÖZDAĞ",
+            "province": "MUĞLA"
+        },
+        {
+            "name": "Mehmet KARAMAN",
+            "province": "SAMSUN"
+        }
+    ],
+    "DEM PARTİ": [
+        {
+            "name": "Tulay HATIMOĞULLARI ORUÇ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Tulay HATIMOĞULLARI ORUÇ",
+            "province": "ADANA"
+        },
+        {
+            "name": "Heval BOZDAĞ",
+            "province": "AĞRI"
+        },
+        {
+            "name": "Nejla DEMİR",
+            "province": "AĞRI"
+        },
+        {
+            "name": "Sırrı SAKİK",
+            "province": "AĞRI"
+        },
+        {
+            "name": "Hakkı Saruhan OLUÇ",
+            "province": "ANTALYA"
+        },
+        {
+            "name": "Ömer Faruk HÜLAKÜ",
+            "province": "BİNGÖL"
+        },
+        {
+            "name": "Hüseyin OLAN",
+            "province": "BİTLİS"
+        },
+        {
+            "name": "Semra ÇAĞLAR GÖKALP",
+            "province": "BİTLİS"
+        },
+        {
+            "name": "Adalet KAYA",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Berdan ÖZTÜRK",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Ceylan AKÇA CUPOLO",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Halide TÜRKOĞLU",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Mehmet KAMAÇ",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Osman Cengiz ÇANDAR",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Serhat EREN",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Sevilay ÇELENK ÖZEN",
+            "province": "DİYARBAKIR"
+        },
+        {
+            "name": "Meral DANIŞ BEŞTAŞ",
+            "province": "ERZURUM"
+        },
+        {
+            "name": "Onur DÜŞÜNMEZ",
+            "province": "HAKKARİ"
+        },
+        {
+            "name": "Öznur BARTİN",
+            "province": "HAKKARİ"
+        },
+        {
+            "name": "Vezir Coşkun PARLAK",
+            "province": "HAKKARİ"
+        },
+        {
+            "name": "Ali BOZAN",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Perihan KOCA DOĞAN",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Celal FIRAT",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Cengiz ÇİÇEK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Çiçek OTLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Keziban KONUKCU KOK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Özgül SAKİ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Burcugül ÇUBUK",
+            "province": "İZMİR"
+        },
+        {
+            "name": "İbrahim AKIN",
+            "province": "İZMİR"
+        },
+        {
+            "name": "Gülüstan KILIÇ KOÇYİĞİT",
+            "province": "KARS"
+        },
+        {
+            "name": "Ömer Faruk GERGERLİOĞLU",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Beritan GÜNEŞ ALTIN",
+            "province": "MARDİN"
+        },
+        {
+            "name": "George ASLAN",
+            "province": "MARDİN"
+        },
+        {
+            "name": "Kamuran TANHAN",
+            "province": "MARDİN"
+        },
+        {
+            "name": "Salihe AYDENİZ",
+            "province": "MARDİN"
+        },
+        {
+            "name": "Sezai TEMELLİ",
+            "province": "MUŞ"
+        },
+        {
+            "name": "Sümeyye BOZ ÇAKI",
+            "province": "MUŞ"
+        },
+        {
+            "name": "Sabahat ERDOĞAN SARITAŞ",
+            "province": "SİİRT"
+        },
+        {
+            "name": "Tuncer BAKIRHAN",
+            "province": "SİİRT"
+        },
+        {
+            "name": "Ayten KORDU",
+            "province": "TUNCELİ"
+        },
+        {
+            "name": "Dilan KUNT AYAN",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Ferit ŞENYAŞAR",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Mithat SANCAR",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Ömer ÖCALAN",
+            "province": "ŞANLIURFA"
+        },
+        {
+            "name": "Gülcan KAÇMAZ SAYYİĞİT",
+            "province": "VAN"
+        },
+        {
+            "name": "Gülderen VARLİ",
+            "province": "VAN"
+        },
+        {
+            "name": "Mahmut DİNDAR",
+            "province": "VAN"
+        },
+        {
+            "name": "Pervin BULDAN",
+            "province": "VAN"
+        },
+        {
+            "name": "Sinan ÇİFTYÜREK",
+            "province": "VAN"
+        },
+        {
+            "name": "Zülküf UÇAR",
+            "province": "VAN"
+        },
+        {
+            "name": "Mehmet Rüştü TİRYAKİ",
+            "province": "BATMAN"
+        },
+        {
+            "name": "Zeynep ODUNCU KUTEVİ",
+            "province": "BATMAN"
+        },
+        {
+            "name": "Ayşegül DOĞAN",
+            "province": "ŞIRNAK"
+        },
+        {
+            "name": "Mehmet Zeki İRMEZ",
+            "province": "ŞIRNAK"
+        },
+        {
+            "name": "Nevroz UYSAL ASLAN",
+            "province": "ŞIRNAK"
+        },
+        {
+            "name": "Yılmaz HUN",
+            "province": "IĞDIR"
+        }
+    ],
+    "EMEP": [
+        {
+            "name": "Sevda KARACA DEMİR",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "İskender BAYHAN",
+            "province": "İSTANBUL"
+        }
+    ],
+    "HÜDA PAR": [
+        {
+            "name": "Şahzade DEMİR",
+            "province": "GAZİANTEP"
+        },
+        {
+            "name": "Faruk DİNÇ",
+            "province": "MERSİN"
+        },
+        {
+            "name": "Zekeriya YAPICIOĞLU",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Serkan RAMANLI",
+            "province": "BATMAN"
+        }
+    ],
+    "TİP": [
+        {
+            "name": "Ahmet ŞIK",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Erkan BAŞ",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Saliha Sera KADIGİL",
+            "province": "İSTANBUL"
+        }
+    ],
+    "DBP": [
+        {
+            "name": "Çiğdem KILIÇGÜN UÇAR",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Keskin BAYINDIR",
+            "province": "BATMAN"
+        }
+    ],
+    "YENİDEN REFAH": [
+        {
+            "name": "Doğan BEKİN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Muhammed Ali Fatih ERBAKAN",
+            "province": "İSTANBUL"
+        },
+        {
+            "name": "Mehmet AŞILA",
+            "province": "KOCAELİ"
+        },
+        {
+            "name": "Ali YÜKSEL",
+            "province": "KONYA"
+        }
+    ],
+    "DSP": [
+        {
+            "name": "Mehmet Önder AKSAKAL",
+            "province": "İSTANBUL"
+        }
+    ],
+    "DP": [
+        {
+            "name": "Haydar ALTINTAŞ",
+            "province": "İZMİR"
+        }
+    ],
+    "SAADET PARTİSİ": [
+        {
+            "name": "Mahmut ARIKAN",
+            "province": "KAYSERİ"
+        }
+    ]
+}

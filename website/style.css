@@ -1,0 +1,130 @@
+@font-face {
+  font-family: app; /* set name */
+  src: url(/src/font/SF-Pro-Text-Bold.otf) /* url of the font */
+}
+
+html {
+    height: 100vh;
+    overflow: hidden;
+}
+
+body {
+    background-color: black;
+    height: 100vh;
+}
+
+.text{
+    color: white;
+    font-family: "Lexend Deca", sans-serif;
+}
+.main {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maincontent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 50vw;
+  height: 80vh;
+}
+
+.buttonContainer {
+    margin: 0;
+  display: grid;
+  gap: 0.3rem;
+  grid-template-columns: auto auto auto;
+}
+
+.imagecontainer {
+position: relative;
+  width: min(300px, 40vw);
+  aspect-ratio: 3 / 4;
+  overflow: hidden;
+  border-radius: 15px;
+  flex-shrink: 0;
+}
+
+.millet {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 15px;
+  box-shadow: 0 0 30px rgba(255,255,255,0.2);
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 8vw;
+  height: 3vh;
+  background-color: #fff;
+  border: none;
+  border-radius: 12px;
+  color: #0d172a;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.btn:hover {
+  background-color: #1e293b;
+  color: #fff;
+}
+
+/* tablet */
+@media (max-width: 999px) {
+  .buttonContainer {
+    grid-template-columns: repeat(4, auto);
+    grid-auto-rows: 65px;
+  }
+
+    .btn {
+    width: 70px;
+    height: 30px;
+  }
+}
+
+/* mobil */
+@media (max-width: 599px) {
+ .buttonContainer {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(90px, 1fr));
+    column-gap: 0.6rem;
+    row-gap: 0.4rem;
+    justify-content: center;
+    width: 90vw;
+  }
+
+  .btn {
+    width: 100%;
+    height: 50px;
+    font-size: 0.8rem;
+    border-radius: 10px;
+  }
+
+  .btn:active {
+  background-color: #1e293b;
+  color: #fff;
+  }
+  .imagecontainer{
+    max-height: 60vh;
+    aspect-ratio: 3/4;
+  }
+  
+  .maincontent {
+    width: 100vw;
+    height: 90vh;
+  }
+}
