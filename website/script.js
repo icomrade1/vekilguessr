@@ -3,9 +3,9 @@ let question = 0;
 let truths = 0;
 let untruths = 0;
 let party = ``;
-let usaname = ``;
 let city = ``;
-let urlname = ""
+let usaname = "";
+let fix="";
 let info = document.getElementById('trueTotal');
 let replaceable = document.getElementById("skibidi");
 const buttons = document.querySelectorAll('.btn')
@@ -36,9 +36,22 @@ var image = document.getElementById('rep')
 let random = `${randomUser.name}\n` + `Şehir: ${randomUser.province}\n` + `Parti: ${randomUser.party}` 
 party = `${randomUser.party}`
 usaname = `${randomUser.name}`
+fix=usaname;
 city = `${randomUser.province}`
-urlname = usaname.replace(/\s/g, "%20")
-image.src = "cdn.vekilguessr.site/" + usaname + ".jpg"
+
+fix = fix.toLowerCase();
+fix = fix.replace(/ /g, '-');
+
+const map = {
+  'ç': 'c',
+  'ğ': 'g',
+  'ı': 'i',
+  'ö': 'o',
+  'ş': 's',
+  'ü': 'u'
+    };
+    fix = fix.replace(/[çğıöşü]/g, m => map[m]);
+image.src = "https://cdn.vekilguessr.site/" + fix + ".jpg"
 }
 
 function getId(button) {
@@ -84,3 +97,7 @@ console.log(button.id)
           b.style.opacity = '1'
         })
       }, 2000)})})
+
+
+      console.log(usaname)
+      console.log("hi")
