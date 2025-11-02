@@ -3,19 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css?v=1">
+    <link rel="stylesheet" href="style.css?v=22222122222222222222">
     <title>vekilguessr</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@100..900&display=swap" rel="stylesheet">
 </head>
 <body>
+      <div class="text" style="margin: 0.2rem;" id="gameOverScreen">
+      <div class="text" style="margin: 0.2 rem;" id="gameOverText"></div>
+      <div class="text" style="margin: 0.2rem;" id="score"></div>
+      <button onclick="restart()" id="restartButton" class="btn">tekrar</button>
+    </div>
   <div class="main">
   <div class="maincontent">
     <div class="text">vekilguessr</div>
-    <div id="trueTotal" class="text" style="color: white; margin-bottom: 1.5rem;">0 doğru 0 yanlış</div>
+    <div id="questionTotal" class="text" style="color: white;">soru 1/10</div>
+    <div id="trueTotal" class="text" style="color: white; margin-bottom: 1.5rem;">skor 0</div>
     <div class="imagecontainer">
-    <img class="millet" id="rep" src="" alt="">
+    <img class="millet" id="rep" src="" alt="" loading="lazy">
     </div>
     <div id="skibidi" class="text" style="color: white; margin: 1.5rem;">hangi partili?</div>
         <div class="buttonContainer">
@@ -37,7 +43,8 @@
         </div>
   </div>
   </div>
-    <script src="script.js?v=1.91122222222222222222222222"></script>
+    <script src="script.js?v=1.9112222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
     
 </body>
 </html>

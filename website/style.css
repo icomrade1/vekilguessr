@@ -31,7 +31,7 @@ body {
   justify-content: center;
   align-items: center;
   width: 50vw;
-  height: 80vh;
+  height: fit-content;
 }
 
 .buttonContainer {
@@ -81,6 +81,21 @@ position: relative;
 .btn:hover {
   background-color: #1e293b;
   color: #fff;
+}
+
+#gameOverScreen {
+  display: none; /* başta gizli */
+  position: fixed; /* ekranı full kaplar */
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,1); /* yarı transparan karartma */
+  color: white;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999; /* diğer her şeyin üstünde */
 }
 
 /* tablet */
