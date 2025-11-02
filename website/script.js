@@ -5,6 +5,7 @@ let untruths = 0;
 let party = ``;
 let usaname = ``;
 let city = ``;
+let urlname = ""
 let info = document.getElementById('trueTotal');
 let replaceable = document.getElementById("skibidi");
 const buttons = document.querySelectorAll('.btn')
@@ -36,6 +37,7 @@ let random = `${randomUser.name}\n` + `Şehir: ${randomUser.province}\n` + `Part
 party = `${randomUser.party}`
 usaname = `${randomUser.name}`
 city = `${randomUser.province}`
+urlname = usaname.replace(/\s/g, "%20")
 image.src = "cdn.vekilguessr.site/" + usaname + ".jpg"
 }
 
