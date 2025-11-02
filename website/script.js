@@ -64,7 +64,7 @@ console.log(button.id)
     replaceable.style.color = "white";
     rastgeleKullanici();
     
-  }, 1000);
+  }, 2000);
 
 }
 
@@ -83,4 +83,4 @@ console.log(button.id)
           b.disabled = false
           b.style.opacity = '1'
         })
-      }, 1000)})})
+      }, 2000)})})
