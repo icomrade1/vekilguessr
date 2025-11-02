@@ -36,7 +36,7 @@ let random = `${randomUser.name}\n` + `Şehir: ${randomUser.province}\n` + `Part
 party = `${randomUser.party}`
 usaname = `${randomUser.name}`
 city = `${randomUser.province}`
-image.src = "https://pub-7fc0d14ed1ac4da78a095b1a19f2cdbf.r2.dev/" + usaname + ".jpg"
+image.src = "cdn.vekilguessr.site/" + usaname + ".jpg"
 }
 
 function getId(button) {
