@@ -118,6 +118,10 @@ position: relative;
   html {
     overflow: auto;
   }
+  
+  .skibidi {
+    font-size: 0.8rem;
+  }
 
  .buttonContainer {
     display: grid;
