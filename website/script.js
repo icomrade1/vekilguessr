@@ -139,6 +139,7 @@ function playAudio(){
 }
 
 function restart(){
+  rastgeleKullanici();
   question=0;
   truths=0;
   document.getElementById("trueTotal").textContent = "skor 0"
