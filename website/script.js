@@ -8,7 +8,6 @@ let usaname = "";
 let fix="";
 var audio = new Audio("cheer.mp3");
 audio.preload = "auto";
-
 let info = document.getElementById('trueTotal');
 let replaceable = document.getElementById("skibidi");
 const buttons = document.querySelectorAll('.btn')
@@ -61,6 +60,7 @@ function rastgeleKullanici() {
 
 
 function getId(button) {
+  writeData()
   if (button.id == party)  {
    
    truths++;
@@ -146,4 +146,3 @@ function restart(){
   document.getElementById("questionTotal").textContent = "soru 1/10"
   document.getElementById("gameOverScreen").style.display = "none";
 }
-  audio.addEventListener('canplaythrough', isAppLoaded, false);
