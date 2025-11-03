@@ -145,7 +145,7 @@ position: relative;
   
   .maincontent {
     width: 100vw;
-    height: 90vh;
+    height: fit-content;
   }
 
   #restartButton{
