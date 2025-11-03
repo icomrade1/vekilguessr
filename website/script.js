@@ -151,12 +151,11 @@ function getId(button) {
     setTimeout(() => {
 
         buttons.forEach(b => {
-                  rastgeleKullanici();
     replaceable.textContent = "hangi partili?";
     replaceable.style.color = "white";
 
         })
-
+ rastgeleKullanici();
       }, 1000);
 
 }
