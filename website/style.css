@@ -119,8 +119,8 @@ position: relative;
     overflow: auto;
   }
   
-  .skibidi {
-    font-size: 0.8rem;
+  #skibidi {
+    font-size: clamp(0.8rem, 2.5vw, 1rem);
   }
 
  .buttonContainer {
