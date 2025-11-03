@@ -148,21 +148,12 @@ function getId(button) {
 
     if (question != 10) {
 
-    setTimeout(() => {
-
     replaceable.textContent = "hangi partili?";
 
     replaceable.style.color = "white";
 
       rastgeleKullanici();
-
-
-
-
-
-
-
-  }, 1000);
+}
 
 
 
@@ -196,7 +187,6 @@ function getId(button) {
 
   }
 
-}
 
 
 
@@ -228,7 +218,7 @@ function getId(button) {
 
         })
 
-      }, 1000)})})
+      }, 2000)})})
 
 
 
