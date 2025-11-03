@@ -77,6 +77,7 @@ position: relative;
   transition: all 0.2s ease;
   text-align: center;
   box-sizing: border-box;
+  transition: background-color 0.2s, color 0.2s;
 }
 
 .btn:hover {
@@ -85,18 +86,18 @@ position: relative;
 }
 
 #gameOverScreen {
-  display: none; /* başta gizli */
-  position: fixed; /* ekranı full kaplar */
+  display: none;
+  position: fixed;
   top: 0;
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0,0,0,1); /* yarı transparan karartma */
+  background: rgba(0,0,0,1);
   color: white;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  z-index: 2; /* diğer her şeyin üstünde */
+  z-index: 2; 
 }
 
 /* tablet */
@@ -128,12 +129,17 @@ position: relative;
     height: 35px;
     font-size: 0.8rem;
     border-radius: 10px;
+    -webkit-tap-highlight-color: transparent;
+    touch-action: manipulation;
   }
 
   .btn:active {
   background-color: #1e293b;
   color: #fff;
   }
+
+  btn:after
+
   .imagecontainer{
     max-height: 60vh;
     aspect-ratio: 3/4;
@@ -142,5 +148,19 @@ position: relative;
   .maincontent {
     width: 100vw;
     height: 90vh;
+  }
+
+  #restartButton{
+    width: 30%;
+    height: 45px;
+    font-size: 1rem;
+  }
+
+  #score {
+    font-size: 0.5rem;
+  }
+
+  #gameOverText{
+    font-size: 1.5rem;
   }
 }
