@@ -157,17 +157,12 @@ function getId(button) {
         })
  rastgeleKullanici();
       }, 1000);
-
+        
 }
 
-
-
-}
-
-  if (question == 10) {
+if (question == 10) {
 
     document.getElementById("score").textContent="skor " + truths;
-
     document.getElementById("gameOverScreen").style.display = "flex";
 
     if (truths >= 5) {
@@ -191,6 +186,9 @@ function getId(button) {
     }
 
   }
+
+
+}
 
 
 
@@ -289,3 +287,5 @@ function restart(){
   document.getElementById("gameOverScreen").style.display = "none";
 
 }
+
+console.log(question)
