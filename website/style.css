@@ -115,6 +115,10 @@ position: relative;
 
 /* mobil */
 @media (max-width: 599px) {
+  html {
+    overflow: auto;
+  }
+
  .buttonContainer {
     display: grid;
     grid-template-columns: repeat(3, minmax(90px, 1fr));
