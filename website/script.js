@@ -148,11 +148,17 @@ function getId(button) {
 
     if (question != 10) {
 
-    replaceable.textContent = "hangi partili?";
+    setTimeout(() => {
 
+        buttons.forEach(b => {
+                  rastgeleKullanici();
+    replaceable.textContent = "hangi partili?";
     replaceable.style.color = "white";
 
-      rastgeleKullanici();
+        })
+
+      }, 1000);
+
 }
 
 
