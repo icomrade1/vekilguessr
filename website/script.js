@@ -264,28 +264,20 @@ function frame() {
 
 
 function playAudio(){
-
   audio.play();
-
 }
 
 
 
 function restart(){
-
-
   rastgeleKullanici();
 
   question=0;
-
   truths=0;
 
   document.getElementById("trueTotal").textContent = "skor 0"
-
   document.getElementById("questionTotal").textContent = "soru 1/10"
-
   document.getElementById("gameOverScreen").style.display = "none";
-
 }
 
 console.log(question)

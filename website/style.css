@@ -39,12 +39,12 @@ body {
     margin: 0;
   display: grid;
   gap: 0.3rem;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: repeat(4, minmax(90px, 1fr));
 }
 
 .imagecontainer {
 position: relative;
-  width: min(300px, 40vw);
+  width: min(300px, 60vw);
   aspect-ratio: 3 / 4;
   overflow: hidden;
   border-radius: 15px;
@@ -66,8 +66,8 @@ position: relative;
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 8vw;
-  height: 3vh;
+  width: 10vw;
+  height: 5vh;
   background-color: #fff;
   border: none;
   border-radius: 12px;
@@ -126,10 +126,11 @@ position: relative;
 
  .buttonContainer {
     display: grid;
-    grid-template-columns: repeat(3, minmax(90px, 1fr));
+    grid-template-columns: repeat(2, minmax(90px, 1fr));
     column-gap: 0.6rem;
     row-gap: 0px;
     justify-content: center;
+    height: 10vh;
     width: 90vw;
   }
 
@@ -148,7 +149,7 @@ position: relative;
   }
 
   .imagecontainer{
-    max-height: 60vh;
+    max-height: 80vh;
     aspect-ratio: 3/4;
   }
   
